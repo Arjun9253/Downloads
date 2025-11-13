@@ -1,0 +1,444 @@
+Microsoft Windows [Version 10.0.26200.7019]
+(c) Microsoft Corporation. All rights reserved.
+
+D:\OPPO RENO 6 5G\Download>git add --all
+fatal: not a git repository (or any of the parent directories): .git
+
+D:\OPPO RENO 6 5G\Download>git status
+fatal: not a git repository (or any of the parent directories): .git
+
+D:\OPPO RENO 6 5G\Download>git init
+Initialized empty Git repository in D:/OPPO RENO 6 5G/Download/.git/
+
+D:\OPPO RENO 6 5G\Download>git add --all
+
+D:\OPPO RENO 6 5G\Download>git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   1678362123528-min.jpg
+        new file:   1678516638606_prev_ui.png
+        new file:   1678516751980_prev_ui.png
+        new file:   1689778824548.jpg
+        new file:   23122017004.jpg
+        new file:   24112017008.jpg
+        new file:   7120-download-iphone-6-original-ringtone-42676.mp3
+        new file:   7afd1d5be8875722ac93c8f9bf5bd0db-new.jpg
+        new file:   91BcqdW9FOS._AC_UF1000,1000_QL80_FMwebp_.webp
+        new file:   ARJUN RESUME DOCS..docx
+        new file:   Document(1)_1.jpg
+        new file:   Document(1)_2.jpg
+        new file:   Document(1)_4.jpg
+        new file:   Document(1)_5.jpg
+        new file:   Document(1)_6.jpg
+        new file:   Document(1)_7-1.jpg
+        new file:   Document(1)_7.jpg
+        new file:   EAadhaar Yadavalli Nagamalleswari.pdf
+        new file:   EAadhaar_2052310339584720200923100229_20092023153621.pdf
+        new file:   EAadhaar_2762003240269820210628114336_28102023102154.pdf
+        new file:   EAadhaar_2935700750046320230622131214_1909202316634.pdf
+        new file:   EChallan.pdf
+        new file:   EV_AWS-Jam-Journeys-Episode-1-Welcome-to-AWS-Jams_May-2023.ics
+        new file:   FB_IMG_1547987933594.jpg
+        new file:   Guide_2013-issue.pdf
+        new file:   HINDI.pdf
+        new file:   IB ACIO-II_Exe 2023.pdf
+        new file:   IMG-20211105-WA0075.jpg
+        new file:   IMG-20211105-WA0076.jpg
+        new file:   IMG-20211105-WA0082.jpg
+        new file:   IMG-20211105-WA0083.jpg
+        new file:   IMG-20220608-WA0000-new.jpg
+        new file:   IMG-20220608-WA0000.jpg
+        new file:   IMG-20220818-WA0001.jpg
+        new file:   IMG-20221022-WA0029.jpg
+        new file:   IMG-20221024-WA0008.jpg
+        new file:   IMG-20221024-WA0009.jpg
+        new file:   IMG-20230303-WA0017-new (1).jpg
+        new file:   IMG-20230303-WA0024.jpg
+        new file:   IMG-20230303-WA0025-new.jpg
+        new file:   IMG-20230303-WA0026-new.jpg
+        new file:   IMG-20230303-WA0032-new.jpg
+        new file:   IMG-20230311-WA0004_prev_ui.png
+        new file:   IMG-20230311-WA0006_prev_ui.png
+        new file:   IMG20210928172949.jpg
+        new file:   IMG20210928202646.jpg
+        new file:   IMG20220813115304.jpg
+        new file:   IMG20230101104141.jpg
+        new file:   IMG20230305212642.png
+        new file:   IMG20230808195205.jpg
+        new file:   IMG20230808195418.jpg
+        new file:   IMG20230808195604.jpg
+        new file:   IMG20230808195745.jpg
+        new file:   IMG20230808195839.jpg
+        new file:   IMG20230808195844.jpg
+        new file:   IMG20230808195951.jpg
+        new file:   IMG20230808200016.jpg
+        new file:   IMG20230808200138.jpg
+        new file:   IMG_0298.JPG
+        new file:   IMG_0299.JPG
+        new file:   IMG_0436.JPG
+        new file:   IMG_0440.JPG
+        new file:   IMG_20190625_100053.JPG
+        new file:   IMG_20220702_120621.jpg
+        new file:   IMG_20230303_205410.jpg
+        new file:   IMG_20231005_084507.png
+        new file:   IMG_20231229_081129.png
+        new file:   KY037-KamamuPremaParivaramu.pdf
+        new file:   Kushi Movie - Flute.mp3
+        new file:   Module_2_Role_of_Social_Work.pptx
+        new file:   NAGARJUNA RESUME PDF.pdf
+        new file:   No Property Certificate Application Form.pdf
+        new file:   Notfn_ Group-II_2023 with Syllabus_112023_07122023 (1).pdf
+        new file:   Notfn_ Group-II_2023 with Syllabus_112023_07122023.pdf
+        new file:   Photo0080.jpg
+        new file:   Photo0113.jpg
+        new file:   Photo0206.jpg
+        new file:   Photo0256.jpg
+        new file:   Photo0279.jpg
+        new file:   Photo0282.jpg
+        new file:   Photo0284.jpg
+        new file:   Picsart_23-03-07_11-56-10-545.png
+        new file:   Picsart_23-03-07_14-01-51-637-new.jpg
+        new file:   Picsart_23-11-21_20-41-23-509.pdf
+        new file:   Screenshot 2022-11-30 222555.jpg
+        new file:   Screenshot_2022-08-19-19-46-39-78.jpg
+        new file:   Search_Sri_Krishna.pdf
+        new file:   Share 'share_-1637916240.png'
+        new file:   Syllabus for GROUP II Services_27042023.pdf
+        new file:   Telugu Spyder.mp3
+        new file:   Telugu.pdf
+        new file:   UPSC AnnualCalendar-2024-engl-100523.pdf
+        new file:   UV050-Yogamu-Bhogamu-Rogamu.pdf
+        new file:   UV051-Neevu-NeePuttuka.pdf
+        new file:   UV201-PrakruthiVaidhyam.pdf
+        new file:   UV497-KrottaSangeethaVidyaDarpanamu.pdf
+        new file:   Untitled.png
+        new file:   VA009-TeluguBhashaCharitra.pdf
+        new file:   VE008-VedaVignanamu.pdf
+        new file:   VE028-ViswaKarmaViswaRoopamu.pdf
+        new file:   VE131-YajurVedaBhashyamu.pdf
+        new file:   VE205-Panigrahanamu.pdf
+        new file:   VE208-LakshmiSookthamu.pdf
+        new file:   VE214-VedaGanitamu.pdf
+        new file:   WUT1530344.pdf
+        new file:   WhatsApp Image 2023-02-10 at 11.50.12 PM (1).jpeg
+        new file:   WhatsApp Image 2023-02-10 at 11.50.12 PM.jpeg
+        new file:   WhatsApp Image 2023-02-10 at 11.50.13 PM (1).jpeg
+        new file:   WhatsApp Image 2023-02-10 at 11.50.13 PM (2).jpeg
+        new file:   WhatsApp Image 2023-02-10 at 11.50.13 PM.jpeg
+        new file:   arjun-someone-is-calling-you.mp3
+        new file:   arjun-you-have-a-text-message.mp3
+        new file:   arjun-you-have-a-whatsapp-message.mp3
+        new file:   d657e1ad6d13a3a342ea05b422797e95.jpg
+        new file:   e-EPIC_WUT1499862.pdf
+        new file:   e-EPIC_WUT1530344.pdf
+        new file:   e-EPIC_WUT2146678.pdf
+        new file:   e-EPIC_WUT2146686 (1).pdf
+        new file:   e-EPIC_WUT2146686.pdf
+        new file:   e-EPIC_WUT2146736.pdf
+        new file:   e-EPIC_wut1530344 (1).pdf
+        new file:   e-EPIC_wut1530344 (2).pdf
+        new file:   e-EPIC_wut1530344 Arjun pdf.pdf
+        new file:   image (1).png
+        new file:   image (5).png
+        new file:   images (14).jpeg
+        new file:   images (7).jpeg
+        new file:   images (8).jpeg
+        new file:   images.jpeg
+        new file:   iphone_ringer.mp3
+        new file:   km_20230211-1_1440p_30f_20230211_175805.mp4
+        new file:   km_20230307_1440p_30f_20230307_144842.mp4
+        new file:   km_Padma_1440p_30f_20230124_231712.mp4
+        new file:   krishn chaithaanya clg admission fee receipt .jpg
+        new file:   malli Aadhar.pdf
+        new file:   mpdf (1).pdf
+        new file:   my aadhar .pdf
+        new file:   note_iphone_sms.mp3
+        new file:   pdf.pdf
+        new file:   pn-removebg-preview (1).jpg
+        new file:   pn.jpg
+        new file:   vcards_20230105_110307.vcf
+        new file:   vlad-sorodoc-49620-unsplash.jpg
+
+
+D:\OPPO RENO 6 5G\Download>git commit -m "initial commit"
+[master (root-commit) 5207cb1] initial commit
+ 143 files changed, 20227 insertions(+)
+ create mode 100644 1678362123528-min.jpg
+ create mode 100644 1678516638606_prev_ui.png
+ create mode 100644 1678516751980_prev_ui.png
+ create mode 100644 1689778824548.jpg
+ create mode 100644 23122017004.jpg
+ create mode 100644 24112017008.jpg
+ create mode 100644 7120-download-iphone-6-original-ringtone-42676.mp3
+ create mode 100644 7afd1d5be8875722ac93c8f9bf5bd0db-new.jpg
+ create mode 100644 91BcqdW9FOS._AC_UF1000,1000_QL80_FMwebp_.webp
+ create mode 100644 ARJUN RESUME DOCS..docx
+ create mode 100644 Document(1)_1.jpg
+ create mode 100644 Document(1)_2.jpg
+ create mode 100644 Document(1)_4.jpg
+ create mode 100644 Document(1)_5.jpg
+ create mode 100644 Document(1)_6.jpg
+ create mode 100644 Document(1)_7-1.jpg
+ create mode 100644 Document(1)_7.jpg
+ create mode 100644 EAadhaar Yadavalli Nagamalleswari.pdf
+ create mode 100644 EAadhaar_2052310339584720200923100229_20092023153621.pdf
+ create mode 100644 EAadhaar_2762003240269820210628114336_28102023102154.pdf
+ create mode 100644 EAadhaar_2935700750046320230622131214_1909202316634.pdf
+ create mode 100644 EChallan.pdf
+ create mode 100644 EV_AWS-Jam-Journeys-Episode-1-Welcome-to-AWS-Jams_May-2023.ics
+ create mode 100644 FB_IMG_1547987933594.jpg
+ create mode 100644 Guide_2013-issue.pdf
+ create mode 100644 HINDI.pdf
+ create mode 100644 IB ACIO-II_Exe 2023.pdf
+ create mode 100644 IMG-20211105-WA0075.jpg
+ create mode 100644 IMG-20211105-WA0076.jpg
+ create mode 100644 IMG-20211105-WA0082.jpg
+ create mode 100644 IMG-20211105-WA0083.jpg
+ create mode 100644 IMG-20220608-WA0000-new.jpg
+ create mode 100644 IMG-20220608-WA0000.jpg
+ create mode 100644 IMG-20220818-WA0001.jpg
+ create mode 100644 IMG-20221022-WA0029.jpg
+ create mode 100644 IMG-20221024-WA0008.jpg
+ create mode 100644 IMG-20221024-WA0009.jpg
+ create mode 100644 IMG-20230303-WA0017-new (1).jpg
+ create mode 100644 IMG-20230303-WA0024.jpg
+ create mode 100644 IMG-20230303-WA0025-new.jpg
+ create mode 100644 IMG-20230303-WA0026-new.jpg
+ create mode 100644 IMG-20230303-WA0032-new.jpg
+ create mode 100644 IMG-20230311-WA0004_prev_ui.png
+ create mode 100644 IMG-20230311-WA0006_prev_ui.png
+ create mode 100644 IMG20210928172949.jpg
+ create mode 100644 IMG20210928202646.jpg
+ create mode 100644 IMG20220813115304.jpg
+ create mode 100644 IMG20230101104141.jpg
+ create mode 100644 IMG20230305212642.png
+ create mode 100644 IMG20230808195205.jpg
+ create mode 100644 IMG20230808195418.jpg
+ create mode 100644 IMG20230808195604.jpg
+ create mode 100644 IMG20230808195745.jpg
+ create mode 100644 IMG20230808195839.jpg
+ create mode 100644 IMG20230808195844.jpg
+ create mode 100644 IMG20230808195951.jpg
+ create mode 100644 IMG20230808200016.jpg
+ create mode 100644 IMG20230808200138.jpg
+ create mode 100644 IMG_0298.JPG
+ create mode 100644 IMG_0299.JPG
+ create mode 100644 IMG_0436.JPG
+ create mode 100644 IMG_0440.JPG
+ create mode 100644 IMG_20190625_100053.JPG
+ create mode 100644 IMG_20220702_120621.jpg
+ create mode 100644 IMG_20230303_205410.jpg
+ create mode 100644 IMG_20231005_084507.png
+ create mode 100644 IMG_20231229_081129.png
+ create mode 100644 KY037-KamamuPremaParivaramu.pdf
+ create mode 100644 Kushi Movie - Flute.mp3
+ create mode 100644 Module_2_Role_of_Social_Work.pptx
+ create mode 100644 NAGARJUNA RESUME PDF.pdf
+ create mode 100644 No Property Certificate Application Form.pdf
+ create mode 100644 Notfn_ Group-II_2023 with Syllabus_112023_07122023 (1).pdf
+ create mode 100644 Notfn_ Group-II_2023 with Syllabus_112023_07122023.pdf
+ create mode 100644 Photo0080.jpg
+ create mode 100644 Photo0113.jpg
+ create mode 100644 Photo0206.jpg
+ create mode 100644 Photo0256.jpg
+ create mode 100644 Photo0279.jpg
+ create mode 100644 Photo0282.jpg
+ create mode 100644 Photo0284.jpg
+ create mode 100644 Picsart_23-03-07_11-56-10-545.png
+ create mode 100644 Picsart_23-03-07_14-01-51-637-new.jpg
+ create mode 100644 Picsart_23-11-21_20-41-23-509.pdf
+ create mode 100644 Screenshot 2022-11-30 222555.jpg
+ create mode 100644 Screenshot_2022-08-19-19-46-39-78.jpg
+ create mode 100644 Search_Sri_Krishna.pdf
+ create mode 100644 Share 'share_-1637916240.png'
+ create mode 100644 Syllabus for GROUP II Services_27042023.pdf
+ create mode 100644 Telugu Spyder.mp3
+ create mode 100644 Telugu.pdf
+ create mode 100644 UPSC AnnualCalendar-2024-engl-100523.pdf
+ create mode 100644 UV050-Yogamu-Bhogamu-Rogamu.pdf
+ create mode 100644 UV051-Neevu-NeePuttuka.pdf
+ create mode 100644 UV201-PrakruthiVaidhyam.pdf
+ create mode 100644 UV497-KrottaSangeethaVidyaDarpanamu.pdf
+ create mode 100644 Untitled.png
+ create mode 100644 VA009-TeluguBhashaCharitra.pdf
+ create mode 100644 VE008-VedaVignanamu.pdf
+ create mode 100644 VE028-ViswaKarmaViswaRoopamu.pdf
+ create mode 100644 VE131-YajurVedaBhashyamu.pdf
+ create mode 100644 VE205-Panigrahanamu.pdf
+ create mode 100644 VE208-LakshmiSookthamu.pdf
+ create mode 100644 VE214-VedaGanitamu.pdf
+ create mode 100644 WUT1530344.pdf
+ create mode 100644 WhatsApp Image 2023-02-10 at 11.50.12 PM (1).jpeg
+ create mode 100644 WhatsApp Image 2023-02-10 at 11.50.12 PM.jpeg
+ create mode 100644 WhatsApp Image 2023-02-10 at 11.50.13 PM (1).jpeg
+ create mode 100644 WhatsApp Image 2023-02-10 at 11.50.13 PM (2).jpeg
+ create mode 100644 WhatsApp Image 2023-02-10 at 11.50.13 PM.jpeg
+ create mode 100644 arjun-someone-is-calling-you.mp3
+ create mode 100644 arjun-you-have-a-text-message.mp3
+ create mode 100644 arjun-you-have-a-whatsapp-message.mp3
+ create mode 100644 d657e1ad6d13a3a342ea05b422797e95.jpg
+ create mode 100644 e-EPIC_WUT1499862.pdf
+ create mode 100644 e-EPIC_WUT1530344.pdf
+ create mode 100644 e-EPIC_WUT2146678.pdf
+ create mode 100644 e-EPIC_WUT2146686 (1).pdf
+ create mode 100644 e-EPIC_WUT2146686.pdf
+ create mode 100644 e-EPIC_WUT2146736.pdf
+ create mode 100644 e-EPIC_wut1530344 (1).pdf
+ create mode 100644 e-EPIC_wut1530344 (2).pdf
+ create mode 100644 e-EPIC_wut1530344 Arjun pdf.pdf
+ create mode 100644 image (1).png
+ create mode 100644 image (5).png
+ create mode 100644 images (14).jpeg
+ create mode 100644 images (7).jpeg
+ create mode 100644 images (8).jpeg
+ create mode 100644 images.jpeg
+ create mode 100644 iphone_ringer.mp3
+ create mode 100644 km_20230211-1_1440p_30f_20230211_175805.mp4
+ create mode 100644 km_20230307_1440p_30f_20230307_144842.mp4
+ create mode 100644 km_Padma_1440p_30f_20230124_231712.mp4
+ create mode 100644 krishn chaithaanya clg admission fee receipt .jpg
+ create mode 100644 malli Aadhar.pdf
+ create mode 100644 mpdf (1).pdf
+ create mode 100644 my aadhar .pdf
+ create mode 100644 note_iphone_sms.mp3
+ create mode 100644 pdf.pdf
+ create mode 100644 pn-removebg-preview (1).jpg
+ create mode 100644 pn.jpg
+ create mode 100644 vcards_20230105_110307.vcf
+ create mode 100644 vlad-sorodoc-49620-unsplash.jpg
+
+D:\OPPO RENO 6 5G\Download>git status
+On branch master
+nothing to commit, working tree clean
+
+D:\OPPO RENO 6 5G\Download>git remote add origin https://github.com/Arjun9253/my-first-repo.git
+
+D:\OPPO RENO 6 5G\Download>git branch -M main
+
+D:\OPPO RENO 6 5G\Download>git push -u origin main
+remote: Repository not found.
+fatal: repository 'https://github.com/Arjun9253/my-first-repo.git/' not found
+
+D:\OPPO RENO 6 5G\Download>git remote add origin https://github.com/Arjun9253/Download.git
+error: remote origin already exists.
+
+D:\OPPO RENO 6 5G\Download>git remote add origin https://github.com/Arjun9253/my-first-repo.git
+error: remote origin already exists.
+
+D:\OPPO RENO 6 5G\Download>git branch -M main
+
+D:\OPPO RENO 6 5G\Download>git push -u origin main
+Enumerating objects: 142, done.
+Counting objects: 100% (142/142), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (142/142), done.
+Writing objects: 100% (142/142), 349.68 MiB | 7.03 MiB/s, done.
+Total 142 (delta 9), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (9/9), done.
+remote: warning: See https://gh.io/lfs for more information.
+remote: warning: File km_Padma_1440p_30f_20230124_231712.mp4 is 57.98 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.
+To https://github.com/Arjun9253/my-first-repo.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+
+D:\OPPO RENO 6 5G\Download>git lfs install
+Updated Git hooks.
+Git LFS initialized.
+
+D:\OPPO RENO 6 5G\Download>
+D:\OPPO RENO 6 5G\Download>git lfs track "*.mp4"
+Tracking "*.mp4"
+
+D:\OPPO RENO 6 5G\Download>git add .gitattributes
+
+D:\OPPO RENO 6 5G\Download>git commit -m "configure git lfs for mp4 files"
+[main 0fd5617] configure git lfs for mp4 files
+ 1 file changed, 1 insertion(+)
+ create mode 100644 .gitattributes
+
+D:\OPPO RENO 6 5G\Download>pip install git-filter-repo
+'pip' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\OPPO RENO 6 5G\Download>git clone --mirror https://github.com/Arjun9253/my-first-repo.git cd my-first-repo.git
+fatal: Too many arguments.
+
+usage: git clone [<options>] [--] <repo> [<dir>]
+
+    -v, --[no-]verbose    be more verbose
+    -q, --[no-]quiet      be more quiet
+    --[no-]progress       force progress reporting
+    --[no-]reject-shallow don't clone shallow repository
+    -n, --no-checkout     don't create a checkout
+    --checkout            opposite of --no-checkout
+    --[no-]bare           create a bare repository
+    --[no-]mirror         create a mirror repository (implies --bare)
+    -l, --[no-]local      to clone from a local repository
+    --no-hardlinks        don't use local hardlinks, always copy
+    --hardlinks           opposite of --no-hardlinks
+    -s, --[no-]shared     setup as shared repository
+    --[no-]recurse-submodules[=<pathspec>]
+                          initialize submodules in the clone
+    --[no-]recursive ...  alias of --recurse-submodules
+    -j, --[no-]jobs <n>   number of submodules cloned in parallel
+    --[no-]template <template-directory>
+                          directory from which templates will be used
+    --[no-]reference <repo>
+                          reference repository
+    --[no-]reference-if-able <repo>
+                          reference repository
+    --[no-]dissociate     use --reference only while cloning
+    -o, --[no-]origin <name>
+                          use <name> instead of 'origin' to track upstream
+    -b, --[no-]branch <branch>
+                          checkout <branch> instead of the remote's HEAD
+    --[no-]revision <rev> clone single revision <rev> and check out
+    -u, --[no-]upload-pack <path>
+                          path to git-upload-pack on the remote
+    --[no-]depth <depth>  create a shallow clone of that depth
+    --[no-]shallow-since <time>
+                          create a shallow clone since a specific time
+    --[no-]shallow-exclude <ref>
+                          deepen history of shallow clone, excluding ref
+    --[no-]single-branch  clone only one branch, HEAD or --branch
+    --[no-]tags           clone tags, and make later fetches not to follow them
+    --[no-]shallow-submodules
+                          any cloned submodules will be shallow
+    --[no-]separate-git-dir <gitdir>
+                          separate git dir from working tree
+    --[no-]ref-format <format>
+                          specify the reference format to use
+    -c, --[no-]config <key=value>
+                          set config inside the new repository
+    --[no-]server-option <server-specific>
+                          option to transmit
+    -4, --ipv4            use IPv4 addresses only
+    -6, --ipv6            use IPv6 addresses only
+    --[no-]filter <args>  object filtering
+    --[no-]also-filter-submodules
+                          apply partial clone filters to submodules
+    --[no-]remote-submodules
+                          any cloned submodules will use their remote-tracking branch
+    --[no-]sparse         initialize sparse-checkout file to include only files at root
+    --[no-]bundle-uri <uri>
+                          a URI for downloading bundles before fetching from origin remote
+
+
+D:\OPPO RENO 6 5G\Download>git filter-repo --path km_padma_1440p_30f_20230124_231712.mp4 --invert-paths
+git: 'filter-repo' is not a git command. See 'git --help'.
+
+D:\OPPO RENO 6 5G\Download>git push --force
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 327 bytes | 327.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/Arjun9253/my-first-repo.git
+   5207cb1..0fd5617  main -> main
